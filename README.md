@@ -2,7 +2,7 @@
 
 <img align="right" width = "200px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
 
-- - 🔭 I’m currently working on improving my skills
+- 🔭 I’m currently working on improving my skills
 - 🌱 I’m currently learning full stack Data Science
 - 👯 I’m looking to collaborate on Data Science
 - 💬 Ask me about anything you feel like!
