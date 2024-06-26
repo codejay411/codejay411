@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on Data Science
 - 💬 Ask me about anything you feel like!
 - 📫 How to reach me: jaypr202@gmail.com
-- ⚡ Fun fact: Creating video on YouTube
+- ⚡ Fun fact: Creating Educational videos on YouTube (Data Science)
 
 ### Connect with me:
 
